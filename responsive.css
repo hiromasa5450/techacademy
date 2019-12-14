@@ -1,0 +1,33 @@
+@media (max-width:1024px) {
+
+  .main {
+    display: flex;
+    flex-direction:column;
+  }
+
+  .main-left {
+    width: 100%;
+  }
+
+  .main-right {
+    align-items: center;
+  }
+
+  .header-right li {
+    display: none;
+  }
+
+  .header-button {
+    display: block;
+    margin-right:30px;
+  }
+
+  .span-image img {
+    width: 80%;
+  }
+
+  .h3-p {
+    margin-left:-40px;
+  }
+
+}
